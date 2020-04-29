@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1490084910 source:c:\users\monic\desktop\tubes\tubes.semangat\main.cpp
+	<iostream>
+	<stddef.h>
+	"tubes.h"
+	"global.h"
+	<conio.h>
+	<stdio.h>
+
+1487745889 source:d:\documents\tubes asd\tubes\tubes.semangat\main.cpp
+	<iostream>
+	<stddef.h>
+	"tubes.h"
+	<conio.h>
+	<stdio.h>
+
+1487757416 d:\documents\tubes asd\tubes\tubes.semangat\tubes.h
+	<iostream>
+	<cstddef>
+
+1488513723 c:\users\monic\desktop\tubes\tubes.semangat\tubes.h
+	<iostream>
+	<cstddef>
+
+1488509319 source:c:\users\monic\desktop\tubes\tubes.semangat\tubes.cpp
+	<iostream>
+	<stddef.h>
+	"tubes.h"
+	<conio.h>
+	<stdio.h>
+
+1490087680 source:c:\users\monic\desktop\tubes\tubes.semangat\global.cpp
+	<iostream>
+	<stddef.h>
+	"global.h"
+	"tubes.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+
+1490087716 c:\users\monic\desktop\tubes\tubes.semangat\global.h
+	<iostream>
+	<cstddef>
+	<conio.h>
+	<stdio.h>
+	"tubes.h"
+
+1490680190 source:f:\tubes\tubes.semangat\global.cpp
+	<iostream>
+	<stddef.h>
+	"global.h"
+	"tubes.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+
+1490642337 f:\tubes\tubes.semangat\global.h
+	<iostream>
+	<cstddef>
+	<conio.h>
+	<stdio.h>
+	"tubes.h"
+
+1490684804 f:\tubes\tubes.semangat\tubes.h
+	<iostream>
+	<cstddef>
+
+1490637149 source:f:\tubes\tubes.semangat\main.cpp
+	<iostream>
+	<stddef.h>
+	"tubes.h"
+	"global.h"
+	<conio.h>
+	<stdio.h>
+
+1490680652 source:f:\tubes\tubes.semangat\tubes.cpp
+	<iostream>
+	<stddef.h>
+	"tubes.h"
+	<conio.h>
+	<stdio.h>
+
+1490637149 source:c:\users\monic\desktop\if4009 - kelompok vertex\program\main.cpp
+	<iostream>
+	<stddef.h>
+	"tubes.h"
+	"global.h"
+	<conio.h>
+	<stdio.h>
+
+1490684804 c:\users\monic\desktop\if4009 - kelompok vertex\program\tubes.h
+	<iostream>
+	<cstddef>
+
+1490688320 c:\users\monic\desktop\if4009 - kelompok vertex\program\global.h
+	<iostream>
+	<cstddef>
+	<conio.h>
+	<stdio.h>
+	"tubes.h"
+
+1491031144 source:c:\users\monic\desktop\if4009 - kelompok vertex\program\tubes.cpp
+	<iostream>
+	<stddef.h>
+	"tubes.h"
+	<conio.h>
+	<stdio.h>
+
+1490687575 source:c:\users\monic\desktop\if4009 - kelompok vertex\program\global.cpp
+	<iostream>
+	<stddef.h>
+	"global.h"
+	"tubes.h"
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+
